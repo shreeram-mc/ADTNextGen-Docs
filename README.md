@@ -31,6 +31,8 @@
   </a>
 </p>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee26d13c-9344-4b9d-a092-e0d78f4f1167/deploy-status)](https://app.netlify.com/sites/urshree-adt-poc/deploys)
+
 ![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/tn.png)
 
 ## Demo
