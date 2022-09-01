@@ -1,4 +1,4 @@
-baseurl = "https://doks-versioning-poc.netlify.app/"
+baseurl = "https://urshree-adt-poc.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
