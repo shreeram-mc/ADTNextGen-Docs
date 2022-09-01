@@ -12,7 +12,7 @@ docsVersion = "1.0"
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
+domainTLD = "urshree-adt-poc.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
