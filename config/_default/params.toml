@@ -13,7 +13,7 @@ docsVersion = "1.0"
 images = ["doks.png"]
 ogLocale = "en_US"
 domainTLD = "urshree-adt-poc.netlify.app"
-titleHome = "ADTNG DOCS"
+titleHome = "Doks Theme"
 
 ## Twitter Cards
 twitterSite = "@getdoks"

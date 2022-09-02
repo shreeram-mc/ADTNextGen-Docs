@@ -9,5 +9,5 @@
 /docs/1.0/            /docs/1.0/prologue/introduction/
 /docs/                /docs/1.0/prologue/introduction/
 
-/docs/0.1/*           https://6310ec15cf123e2ea0f13c39--urshree-adt-poc.netlify.app/docs/0.1/:splat  200
-/docs/0.2/*           https://6310f26db5834b000931ae1e--urshree-adt-poc.netlify.app/docs/0.2/:splat  200
+/docs/0.1/*           https://v0-1-0--urshree-adt-poc.netlify.app/docs/0.1/:splat  200
+/docs/0.2/*           https://v0-2-0--urshree-adt-poc.netlify.app/docs/0.2/:splat  200
